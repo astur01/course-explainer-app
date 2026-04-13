@@ -11,7 +11,9 @@
       "Bash(timeout /t 3 /nobreak)",
       "mcp__playwright__browser_navigate",
       "mcp__playwright__browser_click",
-      "mcp__myDemoMcp__add"
+      "mcp__myDemoMcp__add",
+      "Skill(update-config)",
+      "Bash(pwsh:*)"
     ],
     "deny": [],
     "ask": []
